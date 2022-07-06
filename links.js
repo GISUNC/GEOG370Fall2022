@@ -1,12 +1,12 @@
 var daLinks = {
     data:{
-        'dataV1':"https://sakai.unc.edu/x/BohkQp",
-        'practiceEx1':"https://sakai.unc.edu/x/vkzwp5",
-        'dataSakaiSec2_01': "https://sakai.unc.edu/x/FGsCsu",
-        'dataSakaiSec2_02': "https://sakai.unc.edu/x/rXQ4Ky",
-        'dataSec4':"https://sakai.unc.edu/x/TKo7Vf",
-        'dataSec5':"https://sakai.unc.edu/x/cQka4D",
-        'dataSec6':"https://sakai.unc.edu/x/Kud6U1",
+        'dataV1':"https://sakai.unc.edu/x/Wv4QRO",
+        'practiceEx1':"https://sakai.unc.edu/x/ZW2KUe",
+        'dataSakaiSec2_01': "https://sakai.unc.edu/x/VNoljL",
+        'dataSakaiSec2_02': "https://sakai.unc.edu/x/VNoljL",
+        'dataSec4':"https://sakai.unc.edu/x/cVvPNn",
+        'dataSec5':"https://sakai.unc.edu/x/M1qNBg",
+        'dataSec6':"https://sakai.unc.edu/x/Eyvd8E",
 
     },
     videos:{
