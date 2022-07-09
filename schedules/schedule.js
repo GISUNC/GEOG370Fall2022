@@ -11,7 +11,7 @@ var schedule = { //version July 1 2022
     "Thu Sep 15 2022": "Webmaps",
     "Tue Sep 20 2022": "Test 1",
     "Thu Sep 22 2022": "Tables",
-    "Tue Sep 27 2022": "Choropoleths",
+    "Tue Sep 27 2022": "Choropleths",
     "Thu Sep 29 2022": "Classification Schemes and Ratios",
     "Tue Oct 04 2022": "Apply classification and ratios to your data",
     "Thu Oct 06 2022": "Cartography",
