@@ -101,8 +101,8 @@ var UNCdates = {
         // daTable = document.getElementById(tableID)
         // console.log(daTable)    
         const tr = document.createElement('tr');
-        const thDay = document.createElement('th');
-        const thActivity = document.createElement('th');
+        const thDay = document.createElement('td');
+        const thActivity = document.createElement('td');
         thDay.innerHTML = daDateString
         tr.appendChild(thDay)
         thActivity.innerHTML = daTopic;
